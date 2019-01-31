@@ -41,6 +41,9 @@
   * ```<Deck />``` is a collection of Card components
   * ```<Card />``` should be a representation of content record in markup  
 
+### Tests
+* Use ```npm test``` in the root directory. 
+
 ### UML Diagrams for Modularized Code
 * [Modularized Warmup](assets/#) 
 * [Conditionals](assets/#) 
