@@ -36,10 +36,10 @@
   * Create a modal that can open and close on a button click. When active, it should render it's ```prop.children```. It should draw itself with a close icon. It should be able to close.
 
 * Cards and Decks
- * With given starter code, use the ```content.json``` file as a guide/source to create a page of cards and decks with the following baseline considerations
- * ```<Page />``` is a collection of Deck components
- * ```<Deck />``` is a collection of Card components
- * ```<Card />``` should be a representation of content record in markup  
+  * With given starter code, use the ```content.json``` file as a guide/source to create a page of cards and decks with the following baseline considerations
+  * ```<Page />``` is a collection of Deck components
+  * ```<Deck />``` is a collection of Card components
+  * ```<Card />``` should be a representation of content record in markup  
 
 ### UML Diagrams for Modularized Code
 * [Modularized Warmup](assets/#) 
