@@ -21,7 +21,7 @@
 * [Modal](https://codesandbox.io/s/m7jj90kyr9)
 
 ##### Assignment 5
-* [Cards and Decks](#)
+* [Cards and Decks](https://codesandbox.io/s/708jw0q31)
 * _Will become a part of official library_
 
 ### Description
@@ -53,4 +53,4 @@
 ### Assistance/Credit
 * [Implementing a Simple Modal Component in React](https://alligator.io/react/modal-component/)
   * Article by Cameron Moorehead
-  * This article elped me get started with my Modal file
+  * This article helped me get started with my Modal file
