@@ -51,3 +51,6 @@
 * [Cards and Decks](assets/#)
 
 ### Assistance/Credit
+* [Implementing a Simple Modal Component in React](https://alligator.io/react/modal-component/)
+  * Article by Cameron Moorehead
+  * This article elped me get started with my Modal file
