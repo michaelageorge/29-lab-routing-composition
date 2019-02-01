@@ -8,10 +8,10 @@
 ### Links and Resources
 
 ##### Assignment 1
-* [Unmodularized-Warmup](#)
+* [Unmodularized-Warmup](https://codesandbox.io/s/rlw3x2ky5o)
 
 ##### Assignment 2
-* [Modularized-Warmup](#)
+* [Modularized-Warmup](https://codesandbox.io/s/lp48pw02xm)
 
 ##### Assignment 3
 * [Conditionals](#)
